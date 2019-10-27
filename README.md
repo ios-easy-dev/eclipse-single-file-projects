@@ -12,5 +12,4 @@ Here are instruction how to use Eclipse for one line prpojects are widely used i
 
 ## add [makefile](https://raw.githubusercontent.com/ios-easy-dev/single-file/master/makefile?token=AMHF2USAG2A6T3UNAGHUIJ25WYKAK)
 
-
-## add source files and build with F9 - it will build current file
+## add source files and build with F9 - it will build currently edited file

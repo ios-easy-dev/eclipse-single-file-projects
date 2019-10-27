@@ -10,7 +10,7 @@ Here are instruction how to use Eclipse for one line prpojects are widely used i
 ## add "current" build target by SHIFT-F9
 <img src="https://user-images.githubusercontent.com/51273042/67642261-4fff3980-f8e0-11e9-8606-208de44e200e.png" width="400">
 
-## add makefile from this repository to you project
+## add [makefile](makefile) from this repository to you project
 
 ## add source files and build with F9 - it will build currently edited file
 make note that files can be copy-pased inside project explorer

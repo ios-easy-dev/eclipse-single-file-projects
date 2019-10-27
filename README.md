@@ -1,6 +1,6 @@
 # eclipse-single-file-projects
 
-Here are instruction how to use Eclipse for one line prpojects are widely used in competive programming
+Here are instruction how to use Eclipse for one file prpojects are widely used in competive programming
 
 ## create project with makefile
 <img src="https://user-images.githubusercontent.com/51273042/67642253-34942e80-f8e0-11e9-9f43-50bfa0c429ef.png" width="600">

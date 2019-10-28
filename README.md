@@ -7,8 +7,8 @@ Here are instruction how to use Eclipse for one file prpojects are widely used i
 
 <img src="https://user-images.githubusercontent.com/51273042/67642547-2d225480-f8e3-11e9-93ff-db415b8c9a19.png" width="400">
 
-## add "current" build target by SHIFT-F9
-<img src="https://user-images.githubusercontent.com/51273042/67642261-4fff3980-f8e0-11e9-8606-208de44e200e.png" width="400">
+## update build propetries to build ${selected_resource_loc} instead of "all"
+<img src="https://user-images.githubusercontent.com/51273042/67645535-b6478480-f8ff-11e9-8a3d-0fef9c2ab2d0.png" width="400">
 
 ## add [makefile](makefile) from this repository to you project
 
@@ -17,6 +17,3 @@ make note that files can be copy-pased inside project explorer
 
 <img src="https://user-images.githubusercontent.com/51273042/67642779-c488a700-f8e5-11e9-8493-30abde2a73a6.png" width="600">
 
-## update buidl setting to build active file on "Run" CRTL-SHIFT-F11
-
-<img src="https://user-images.githubusercontent.com/51273042/67645106-1a1c7e00-f8fd-11e9-8639-cf221f2cd379.png" width="600">

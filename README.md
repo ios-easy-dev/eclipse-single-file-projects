@@ -16,3 +16,7 @@ Here are instruction how to use Eclipse for one file prpojects are widely used i
 make note that files can be copy-pased inside project explorer
 
 <img src="https://user-images.githubusercontent.com/51273042/67642779-c488a700-f8e5-11e9-8493-30abde2a73a6.png" width="600">
+
+## update buidl setting to build active file on "Run" CRTL-SHIFT-F11
+
+<img src="https://user-images.githubusercontent.com/51273042/67645106-1a1c7e00-f8fd-11e9-8639-cf221f2cd379.png" width="600">

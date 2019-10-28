@@ -12,7 +12,7 @@ Here are instruction how to use Eclipse for one file prpojects are widely used i
 
 ## add [makefile](makefile) from this repository to you project
 
-## add source files and build with F9 - it will build currently edited file
+## add source files and build - it will build from currently selected file
 make note that files can be copy-pased inside project explorer
 
 <img src="https://user-images.githubusercontent.com/51273042/67642779-c488a700-f8e5-11e9-8493-30abde2a73a6.png" width="600">
